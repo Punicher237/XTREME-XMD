@@ -13,10 +13,10 @@ services:
       - key: NODE_VERSION
         value: 18
       - key: MODE
-        value: public
+        value: private
       - key: PREFIX
-        value: .
+        value: ✨
       - key: BOT_NAME
         value: XTREME-XMD
       - key: OWNER_NUMBER
-        value: 529633982655
+        value: 237695429381
